@@ -6,9 +6,7 @@
 ### Specs
 | Original | Sketch |
 | :-------------     | :------------- |
-| ![original 1](https://raw.githubusercontent.com/breatortilla/threadless-sketch/master/screen1.png)
-  ![original 2](https://raw.githubusercontent.com/breatortilla/threadless-sketch/master/screen2.png)
-  ![original 3](https://raw.githubusercontent.com/breatortilla/threadless-sketch/master/screen3.png) | ![sketch](https://raw.githubusercontent.com/breatortilla/threadless-sketch/master/threadless-sketch-scrnshot.png) |
+| ![original](https://raw.githubusercontent.com/breatortilla/threadless-sketch/master/screen.png)| ![sketch](https://raw.githubusercontent.com/breatortilla/threadless-sketch/master/threadless-sketch-scrnshot.png) |
 
 ## Support and contact details
 
