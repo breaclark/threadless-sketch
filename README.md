@@ -6,7 +6,9 @@
 ### Specs
 | Original | Sketch |
 | :-------------     | :------------- |
-|  |  |
+| ![original 1](https://raw.githubusercontent.com/breatortilla/threadless-sketch/master/screen1.png)
+  ![original 2](https://raw.githubusercontent.com/breatortilla/threadless-sketch/master/screen2.png)
+  ![original 3](https://raw.githubusercontent.com/breatortilla/threadless-sketch/master/screen3.png) | ![sketch](https://raw.githubusercontent.com/breatortilla/threadless-sketch/master/threadless-sketch-scrnshot.png) |
 
 ## Support and contact details
 
@@ -14,4 +16,4 @@ _Email me at breatortilla@gmail.com for support_
 
 ### License
 
-Copyright (c) 2018 **_{Brea Borlas}_**
+Copyright (c) 2018 **_Brea Borlas_**
