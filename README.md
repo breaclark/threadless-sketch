@@ -4,9 +4,11 @@
 #### By **Brea Borlas**
 
 ### Specs
-| Original | Sketch |
-| :-------------     | :------------- |
-| ![original](https://raw.githubusercontent.com/breatortilla/threadless-sketch/master/screen.png)| ![sketch](https://raw.githubusercontent.com/breatortilla/threadless-sketch/master/threadless-sketch-scrnshot.png) |
+
+<p float="left">
+<img width="210" src="https://raw.githubusercontent.com/breatortilla/threadless-sketch/master/screen.png">
+<img width="210" src="https://raw.githubusercontent.com/breatortilla/threadless-sketch/master/threadless-sketch-scrnshot.png">
+</p>
 
 ## Support and contact details
 
